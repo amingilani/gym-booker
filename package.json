@@ -1,0 +1,20 @@
+{
+  "name": "gym-booker",
+  "version": "1.0.0",
+  "description": "A script to book gyms at Condo Control Central",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "rpa",
+    "gym",
+    "booking"
+  ],
+  "author": "Amin Shah Gilani <code@gilani.me>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
